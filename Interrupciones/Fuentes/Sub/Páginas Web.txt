@@ -1,0 +1,3 @@
+https://www.intesc.mx/interrupciones-en-microcontroladores-de-la-serie-stm32f4/
+
+https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
