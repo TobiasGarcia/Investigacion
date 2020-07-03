@@ -1,15 +1,24 @@
 //--------------------------------------------------------------------------------------
+//
+//       EJEMPLO DE LA IMPLEMENTACIÓN DE UNA INTERRUPCIÓN EN UN ARDUINO UNO
+//
 //El propósito del siguiente código es hacer que el microcontrolador vaya encendiendo
 //unos leds colocados en fila en forma ascendente, luego los apague en forma ascendente,
 //luego los encienda de forma descendente, y por último los apague en forma descendente,
 //antes de comenzar el proceso de nuevo. Además, implementaremos una interrupción para
-//poder enceder y apagar un led amarillo conectado al pin 4, cuando se oprima un
+//poder enceder y apagar un led amarillo conectado al pin 4 cuando se oprima un
 //botón, el cual puede ser presionado en cualquier momento.
-
-//OBSERVACIÓN: Según la forma en que se conectan las componentes físicos, el significado
+//
+//La forma en que se conecta el Arduino se puede consultar en este vídeo:
+//https://www.youtube.com/watch?v=Rnf5xWPB0go&feature=youtu.be
+//
+//Una simulación del circuito se puede encontrar en este enlace de TinkerCad:
+//https://www.tinkercad.com/things/9WmxH0vDsUK
+//
+//OBSERVACIÓN: Según la forma en que se conectan los componentes físicos el significado
 //de "ascendente" corresponde a ir desde el pin 12 al 5, y el de "descendente"
 //a ir desde el 5 hasta el 12.
-
+//
 //NOTA: Este código fue implementado para el modelo Arduino UNO.
 //--------------------------------------------------------------------------------------
 

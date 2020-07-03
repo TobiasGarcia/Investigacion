@@ -3,4 +3,10 @@ https://www.intesc.mx/interrupciones-en-microcontroladores-de-la-serie-stm32f4/
 https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
 
 https://virtualirfan.com/history-of-interrupts [Irfan Ahmad] y Vídeo
-https://people.cs.clemson.edu/~mark/interrupts.html#dyseac [Huella]
+https://people.cs.clemson.edu/~mark/interrupts.html [Huella]
+
+https://www.luisllamas.es/que-son-y-como-usar-interrupciones-en-arduino/ [LuisLlamas]
+
+https://www.alpertron.com.ar/8088.HTM [8086 y 8088]
+
+https://micropython.org/ [MicroPython]
