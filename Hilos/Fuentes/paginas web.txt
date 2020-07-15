@@ -1,0 +1,11 @@
+https://www.researchgate.net/publication/312190196_What_is_a_Process
+https://www.researchgate.net/post/Concurrency_Vs_Parallelism
+
+http://cotana.informatica.edu.bo/downloads/Sistemas%20Operativos.pdf
+file:///C:/Users/SrRana/Downloads/Sistemas_Operativos_Diseno_e_Implementac.pdf
+https://javiersegura.wordpress.com/2009/05/15/implementacion-de-threads-ult-y-klt/
+
+https://facturapp.weebly.com/hilos.html
+https://www.tutorialspoint.com/operating_system/os_multi_threading.htm
+
+http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf
