@@ -9,3 +9,8 @@ https://facturapp.weebly.com/hilos.html
 https://www.tutorialspoint.com/operating_system/os_multi_threading.htm
 
 http://www.uobabylon.edu.iq/download/M.S%202013-2014/Operating_System_Concepts,_8th_Edition%5BA4%5D.pdf
+
+http://www.chuidiang.org/clinux/procesos/mashilos.php#join ATTR
+http://www.chuidiang.org/clinux/procesos/procesoshilos.php LaMar
+https://www.um.es/earlyadopters/actividades/a3/PCD_Activity3_Session1.pdf Falso_POSIX
+http://profesores.elo.utfsm.cl/~agv/elo330/2s08/lectures/POSIX_Threads.html POSIX
