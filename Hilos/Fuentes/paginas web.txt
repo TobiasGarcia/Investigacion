@@ -14,3 +14,8 @@ http://www.chuidiang.org/clinux/procesos/mashilos.php#join ATTR
 http://www.chuidiang.org/clinux/procesos/procesoshilos.php LaMar
 https://www.um.es/earlyadopters/actividades/a3/PCD_Activity3_Session1.pdf Falso_POSIX
 http://profesores.elo.utfsm.cl/~agv/elo330/2s08/lectures/POSIX_Threads.html POSIX
+
+http://www.serpentine.com/blog/threads-faq/the-history-of-threads/ Sullivan
+https://www.britannica.com/technology/time-sharing Enciclopedia
+https://whatis.techtarget.com/definition/Multics-Multiplexed-Information-and-Computing-Service Tech
+https://www.electrontools.com/Home/WP/modelo-de-arquitectura-pipeline/ ArqPipes
